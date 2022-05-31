@@ -1,7 +1,7 @@
 body{
     font-family: 'Tiro Kannada', serif;
 }
-.firstsection{
+.section{
     display: flex;
 }
 .half-width{
@@ -24,9 +24,31 @@ h1{
 .ordernow{
     text-decoration: none;
     background: linear-gradient(orange,orangered);
-    font-size: 20px;
-    padding: 15px;
+    font-size: 15px;
+    padding: 15px 40px;
     border-radius: 100px;
     color:white;
-
+}
+.half-width2 img{
+    max-width: 100%;
+    height: 40%;
+    padding-left: 250px;
+    margin-top: 60px;
+}
+.section1{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    background-size: 100%;
+}
+.aboutme{
+    padding-top: 180px;
+}
+.contactme{
+    text-decoration: none;
+    background: linear-gradient(orange,orangered);
+    font-size: 15px;
+    padding: 15px 40px;
+    border-radius: 100px;
+    color:white;
 }
