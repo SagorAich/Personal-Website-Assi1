@@ -1,0 +1,32 @@
+body{
+    font-family: 'Tiro Kannada', serif;
+}
+.firstsection{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width1{
+    margin-top: 180px;
+    padding-left: 100px;
+}
+.half-width p{
+    margin-bottom: 50px;
+}
+.color{
+    color: orangered;
+}
+h1{
+    font-size: 55px;
+    line-height: 60%;
+}
+.ordernow{
+    text-decoration: none;
+    background: linear-gradient(orange,orangered);
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 100px;
+    color:white;
+
+}
